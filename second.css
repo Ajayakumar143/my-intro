@@ -1,0 +1,18 @@
+/* 
+Q1-Create a simple div with an id "box" and some text content inside the div set its background color to blue.
+Q2- Ctreate three heading h1 h2 h43 give all a clas as "heading" and set color heading red. 
+Q3-Create as botton and set its background color green using css style shift blue using style tag and pink using inline style 
+ */
+ #box{
+    background-color: blue;
+ }
+
+.heading{
+    color: red;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
